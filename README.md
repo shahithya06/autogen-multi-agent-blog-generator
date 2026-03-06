@@ -21,7 +21,6 @@ All orchestrated through a **multi-agent pipeline**.
 - [Motivation](#motivation)
 - [Key Features](#key-features)
 - [Architecture](#architecture)
-- [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,9 +28,6 @@ All orchestrated through a **multi-agent pipeline**.
 - [Project Structure](#project-structure)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [Author](#author)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 # 🚀 Overview

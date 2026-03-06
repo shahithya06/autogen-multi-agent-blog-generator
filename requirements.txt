@@ -1,0 +1,6 @@
+autogen-agentchat 
+autogen-core 
+streamlit 
+requests 
+beautifulsoup4 
+openai
